@@ -157,20 +157,6 @@ body {
     letter-spacing: 3px;
 }
 
-.article-meta {
-    text-align: center;
-    font-size: 14px;
-    opacity: 0.6;
-    margin: 0 0 26px;
-}
-
-.article-meta::before,
-.article-meta::after {
-    content: "·";
-    margin: 0 8px;
-    opacity: 0.6;
-}
-
 .article-body p {
     font-size: 17px;
     line-height: 2.1;
